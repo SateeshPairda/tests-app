@@ -119,13 +119,7 @@
     text-align: center;
   }
   
-  .head {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    background-color: #CCCCCC;
-    width:100%;
-  }
+
   .droppable {
     position: absolute;
     width: 200px;
